@@ -1,0 +1,2 @@
+# equipoc
+Repositorio en grupo
